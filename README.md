@@ -4,8 +4,8 @@ Deploying studentperformance indicator project in Azure Environment using CI-CD 
 
 ## Run from terminal:
 
-docker build -t testdockerkrish.azurecr.io/mltest:latest .
+docker build -t testdockercicd.azurecr.io/studentperformanceazure:latest .
 
-docker login testdockerkrish.azurecr.io
+docker login testdockercicd.azurecr.io
 
-docker push testdockerkrish.azurecr.io/mltest:latest
+docker push testdockercicd.azurecr.io/studentperformanceazure:latest
