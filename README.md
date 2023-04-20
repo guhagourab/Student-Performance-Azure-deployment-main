@@ -1,5 +1,5 @@
 ## End to End MAchine Learning Project
-
+Deploying studentperformance indicator project in Azure Environment using CI-CD pipeline
 
 
 ## Run from terminal:
